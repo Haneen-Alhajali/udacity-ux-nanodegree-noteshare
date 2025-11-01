@@ -1,4 +1,4 @@
-# PeerNotes - NoteShare UX Platform 📚✨
+# PeerNotes - NoteShare Platform (UI/UX) 📚✨
 
 **Organized, Trustworthy Study Materials for University Students**  
 Classmate Notes, Just a Tap Away.
